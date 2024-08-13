@@ -3,6 +3,9 @@ Why does the vintage Dell I7 E6420 outperform brand new Dell I5 ultra thin Dell 
 I don't have a Dell I7 ultrathin, I suspect it would have more of a heat problem?
 Probably would approch $2,000 - (equivalent to 12 Dell E6420s)
 
+github
+https://github.com/rogerjdeangelis/utl-Why-does-the-vintage-Dell-I7-E6420-outperform-brand-new-Dell-I5-ultra-thin-Dell-laptop
+
                              Benchmarks
 Elapsed
 Seconds    Laptops
