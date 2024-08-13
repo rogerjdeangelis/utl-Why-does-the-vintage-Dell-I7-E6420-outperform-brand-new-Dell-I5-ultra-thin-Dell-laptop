@@ -8,17 +8,17 @@
     Elapsed
     Seconds    Laptops
 
-      123      Vintage Dell I7 E6420 ($85 bare bones - ~$175 enhanced)
+      123      Vintage Dell I7 E6420 (ebay $85 bare bones - ~$175 enhanced)
       162      Brand new Dell I5 E7470 Ultra-thin   ( $929 see link below)
 
-    One caveat, the Dell I5 has more process running in background that I can not turn off?
+    One caveat, the Dell I5 has more processes running in the background that I can not turn off?
 
-    Heat throttling the CPUs on the newer ultra-thin Dell Laptop is why
+    Heat throttling the CPUs on the newer ultra-thin Dell Laptop is why fatter laptops outperform ultrathins.
 
     Where you can buy the ultathin Dell I5 E7470
     https://www.amazon.com/Dell-Latitude-Business-Ultrabook-i5-6300U/dp/B01F7J3AEQ
 
-    Running 8 parallell tasks each running  15 consecutive 'proc means' each on 20,000,000 million obs
+    Running 8 parallel tasks each running  15 consecutive 'proc means' each on 20,000,000 million obs
 
 
     Elapsed time for one task with 15 consecutive 'proc means'. (8 of these are running)
@@ -56,7 +56,7 @@
             |_|
     ;
 
-    There aare eight facility x product groups. I split and run 8 tasks in parallel
+    There are eight facility x product groups. I split and ran 8 tasks in parallel
 
     Table                      Obs
 
