@@ -1,0 +1,18 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA m160_1 m160_2 m160_3 m160_4 m160_5 m160_6 m160_7 m160_8
+
+NOTE: Multi-output DATA step splits stream into: m160_1 m160_2 m160_3 m160_4 m160_5 m160_6 m160_7 m160_8
+
+NOTE: Wrote m160_1 (13 rows, 4 columns).
+NOTE: Wrote m160_2 (13 rows, 4 columns).
+NOTE: Wrote m160_3 (13 rows, 4 columns).
+NOTE: Wrote m160_4 (13 rows, 4 columns).
+NOTE: Wrote m160_5 (12 rows, 4 columns).
+NOTE: Wrote m160_6 (12 rows, 4 columns).
+NOTE: Wrote m160_7 (12 rows, 4 columns).
+NOTE: Wrote m160_8 (12 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.02 seconds
+  cpu   0.02 seconds
+NOTE: PROC MEANS
+NOTE: PROC MEANS statement used.

@@ -1,0 +1,15 @@
+                                                  The MEANS Procedure
+
+                                              Analysis Variable : revenue
+
+        facility  productline            Sum          N Obs
+        ---------------------------------------------------
+        A         V              450.0000000             13
+        ---------------------------------------------------
+
+                                              Analysis Variable : expenses
+
+        facility  productline            Sum          N Obs
+        ---------------------------------------------------
+        A         V               34.0000000             13
+        ---------------------------------------------------
