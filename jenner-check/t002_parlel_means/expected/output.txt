@@ -1,0 +1,11 @@
+
+facility  productline  _TYPE_  _FREQ_  sumRevenue  sumExpenses
+--------  -----------  ------  ------  ----------  -----------
+A         V                 3      13         450           34
+A         W                 3      13         767           21
+A         X                 3      13         712           27
+A         Y                 3      13         839           27
+B         V                 3      12         657           24
+B         W                 3      12         732           16
+B         X                 3      12         516           24
+B         Y                 3      12         706           25

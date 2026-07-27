@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_gen_facility_split",
+  "source_file": "Why-does-the-vintage-Dell-I7-E6420-outperform-brand-new-Dell-I5-ultra-thin-Dell-laptop.sas",
+  "source_blob_sha": "1d80bc7fc56604a5810bdf7ef8cfaa22bbf385ea",
+  "source_commit": "e8bc6fe3e401f2936dd7d692c54f33e4afb7d27a",
+  "notes": "Data-generation DATA step: streaminit-seeded do-loops over 2 facilities x 4 product lines, cats() group key, eight-way select()/when() routing into eight datasets. Upstream targets were librefs on c:/d:/e: physical drives with 20,000,000 records each; here they are redirected to WORK and the record count is small so the run is self-contained. Split logic, seed, and key are verbatim upstream. Added a PROC MEANS to confirm the routing put only facility A / productline V rows into m160_1."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_parlel_means",
+  "source_file": "Why-does-the-vintage-Dell-I7-E6420-outperform-brand-new-Dell-I5-ultra-thin-Dell-laptop.sas",
+  "source_blob_sha": "1d80bc7fc56604a5810bdf7ef8cfaa22bbf385ea",
+  "source_commit": "e8bc6fe3e401f2936dd7d692c54f33e4afb7d27a",
+  "notes": "Caller for the %parlel macro. Keeps the macro's PROC MEANS statement verbatim (noprint nway; var revenue expenses; class facility productline; output out=&tbl.1 sum(revenue)=sumRevenue sum(expenses)=sumExpenses;) and its %do 1..15 loop of consecutive passes. Upstream %parlel(drv,tbl) libnames a physical drive and runs against a 20,000,000-record table; here a small WORK table is built the same way the upstream generator does (do facility / do productline / cats()) so no external drive is needed. The 15-pass output dataset m160_11 is printed to show the eight-group facility x productline summary, matching the structure of the results table in the upstream README."
+}
